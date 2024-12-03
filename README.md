@@ -53,6 +53,11 @@
 
 
 ## Output:
+![WhatsApp Image 2024-12-03 at 21 55 13_cb0d2442](https://github.com/user-attachments/assets/19a1af51-e4b9-4900-bd8b-1ce071a9ac81)
+![image](https://github.com/user-attachments/assets/736a352c-0860-4043-a8b1-1878450b521f)
+![image](https://github.com/user-attachments/assets/0471cada-1ef2-4fb5-a526-4097f88bf4e2)
+
+
 
 
 ### Name:
