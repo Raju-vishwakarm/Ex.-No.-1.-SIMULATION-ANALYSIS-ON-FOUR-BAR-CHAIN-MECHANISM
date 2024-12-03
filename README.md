@@ -60,8 +60,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:Raju.D
+### Register Number:24003778 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
